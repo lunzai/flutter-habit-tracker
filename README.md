@@ -1,3 +1,6 @@
+> [!NOTE]
+> Work in progress
+
 # AI-Generated Habit Tracker
 
 A Flutter habit tracking application generated almost entirely through Cursor AI. This project serves as a proof of concept to explore and compare AI code generation tools (Cursor AI vs GitHub Copilot) in real-world application development.
